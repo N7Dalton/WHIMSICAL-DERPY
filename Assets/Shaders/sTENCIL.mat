@@ -37,7 +37,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _Cubemap:
-        m_Texture: {fileID: 8900000, guid: b27b6ea26449b0a4cb2684d0b94b887f, type: 2}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_565363523e8d4d2cbf888f9a588f7c00_Texture_1_Texture2D:
@@ -65,8 +65,9 @@ Material:
     - _IsTrans: 0
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Scale_of_Tiling: 4
-    - _Scale_of_noice: 39.92
-    - _offAmount: 0.1
+    - _Scale_of_Tiling: 1.3
+    - _Scale_of_noice: 26.3
+    - _multiplier: 0.35
+    - _offAmount: 0.48
     m_Colors: []
   m_BuildTextureStacks: []
